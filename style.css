@@ -1,0 +1,29 @@
+.cont{
+    background-color: black;
+    width: 300px;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem;
+}
+.box{
+    width: 80px; height: 80px;
+    border: 1px solid white;
+    display: inline-block;
+    background-color: rgb(122, 39, 39);
+}
+.color{
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    margin-top: 1rem;
+}
+.result{
+    width: 300px;
+    margin: 0 auto;
+    font-size: 3rem;
+    text-align: center;
+}
